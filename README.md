@@ -31,7 +31,7 @@ In case you wish to set your parameters directly in nextflow, please use the nex
 
 
 ```
-nextflow [options] ./nf_workflow.nf --spectra ${spectra_path} --library ${library_path} --ionmode (positive/negative) ${ion_mode} ${ion_mode_exclusion}
+nextflow [options] ./nf_workflow.nf --spectra ${spectra_path} --library ${library_path} --ionmode (positive/negative) ${ion_mode}
 ```
 
 ## Run in a conda environment
